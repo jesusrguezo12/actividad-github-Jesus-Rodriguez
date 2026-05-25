@@ -1,0 +1,5 @@
+conflicto.txt
+
+Proyecto: Git Conflicts
+Responsable: EQUIPO-B
+Version: 1.0
